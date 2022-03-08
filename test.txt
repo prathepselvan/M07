@@ -3,3 +3,4 @@ this is for change test
 git log
 git log --oneline
 git push
+git pull
