@@ -1,9 +1,13 @@
 dev 1 commit
 this is for change test
 fech
+
 git stash
 git revert
 git log
 git log --oneline
 
 git push -- from local
+
+git pull - changed from hub
+
