@@ -11,3 +11,5 @@ git push -- from local
 
 git pull - changed from hub
 
+git fetch
+
