@@ -5,3 +5,5 @@ git stash
 git revert
 git log
 git log --oneline
+
+git push -- from local
