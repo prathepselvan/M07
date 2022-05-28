@@ -3,3 +3,5 @@ this is for change test
 fech
 git stash
 git revert
+git log
+git log --oneline
